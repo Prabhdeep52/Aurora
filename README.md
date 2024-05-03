@@ -25,13 +25,6 @@ Aurora is a mobile application built using Flutter that aims to provide navigati
 - Integration with Wearable Devices: As wearable technology advances, integrating Aurora with devices like smart glasses or wearable sensors can offer even greater convenience and independence to visually impaired users. These devices can provide real-time feedback on their surroundings without needing to hold a smartphone.
 - Multi-Language Support: Expanding language support beyond English can make the app accessible to a broader audience globally. This can involve translating both the user interface and the object detection descriptions into multiple languages.
 
-## Business Model
-- Freemium Model: Offer a basic version of the app for free, with limited features such as basic object detection and navigation assistance. Premium features like advanced object detection, offline navigation, and personalized assistance can be unlocked through a subscription model.
-- Corporate Partnerships: Forge partnerships with companies and organizations that cater to visually impaired individuals, such as blind associations, rehabilitation centers, or assistive technology providers. Offer customized versions of the app tailored to their specific needs and provide training and support services.
-
-## Landing Page
-- We have designed a landing page for our Application to to give everyone a quick glance of what we have made and what we are doing to do to create a better tomorrow
-- Website link -> https://devshouse-aurora.vercel.app
 
 ## Setup
 
